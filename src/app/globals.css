@@ -8,6 +8,7 @@
   .wrapper{
      padding: 20px;
      border: 1px solid #ddd;
+     margin-bottom: 20px;
   }
   button{
     padding: 10px 30px;
@@ -24,5 +25,7 @@
 .title{
   font-size: 24px;
   font-weight: 600;
+  margin-bottom: 30px;
+  text-decoration: underline;
 }
 }
