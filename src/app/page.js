@@ -1,5 +1,6 @@
 import CallBackApp from "./Component/UseCallBack/CallBackApp";
 import UseDebugValueApp from "./Component/UseDebug/UseDebugValueApp";
+import UseIdApp from "./Component/UseId/UseIdApp";
 import UseDeferredValueApp from './Component/useDeferredValue/UseDeferredValueApp';
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
       <CallBackApp />
       <UseDebugValueApp/>
       <UseDeferredValueApp/>
+      <UseIdApp/>
     </main>
   )
 }
